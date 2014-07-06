@@ -1,8 +1,5 @@
 # Description:
-#   Command to Yo! users
-#
-# Commands:
-#   hubot yo me - Reply with Yo!
+#   Commands Yo!
 
 module.exports = (robot) ->
   robot.respond /yo/i, (msg) ->
